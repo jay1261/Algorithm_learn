@@ -2,6 +2,7 @@
 #include <iostream>
 #include <list>
 using namespace std;
+// 약수 구하기 문제
 // 입력
 // 첫째 줄에 N과 K가 빈칸을 사이에 두고 주어진다. N은 1 이상 10,000 이하이다. K는 1 이상 N 이하이다.
 
